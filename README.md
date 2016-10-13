@@ -12,6 +12,7 @@
     {
       "key": "YOUR-API-KEY"
     }
+    ```
 
 3. Copy `gamestate_integration_dota2-gsi.cfg.` to folder `steamapps\common\dota 2 beta\game\dota\cfg\gamestate_integration\` (you may have to create this folder)
 
