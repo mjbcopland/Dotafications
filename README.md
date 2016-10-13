@@ -16,4 +16,4 @@
 
 3. Copy `gamestate_integration_dota2-gsi.cfg.` to folder `steamapps\common\dota 2 beta\game\dota\cfg\gamestate_integration\` (you may have to create this folder)
 
-4. Run `index.js` and Dota 2.
+4. Run `node index.js` and Dota 2.
