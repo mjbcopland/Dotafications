@@ -10,7 +10,7 @@
 
     ```
     {
-      "token": "YOUR-ACCESS-TOKEN"
+      "key": "YOUR-ACCESS-TOKEN"
     }
     ```
 
